@@ -20,7 +20,7 @@
     "spryker/assertion": "^3.0.0",
     "spryker/country": "^3.2.0",
     "spryker/data-import": "^1.4.2",
-    "spryker/glossary": "^3.4.0",
+    "spryker/glossary": "^3.3.5",
     "spryker/glossary-storage": "^1.1.0",
     "spryker/glue-application": "^1.8.1",
     "spryker/gui": "^3.15.0",
