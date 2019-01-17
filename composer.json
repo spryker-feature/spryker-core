@@ -15,7 +15,7 @@
     "spryker-shop/shop-permission": "^1.1.0",
     "spryker-shop/shop-router": "^1.0.2",
     "spryker-shop/shop-translator": "^1.0.0",
-    "spryker-shop/shop-ui": "^1.10.1",
+    "spryker-shop/shop-ui": "^1.11.0",
     "spryker/application": "^3.12.0",
     "spryker/assertion": "^3.0.0",
     "spryker/country": "^3.2.0",
