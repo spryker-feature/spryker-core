@@ -43,5 +43,10 @@
     "spryker/url-storage": "^1.2.0",
     "spryker/uuid-behavior": "^1.0.1",
     "spryker/zed-request": "^3.5.3"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
