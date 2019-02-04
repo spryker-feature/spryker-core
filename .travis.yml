@@ -1,0 +1,28 @@
+language: php
+
+php:
+  - 7.2
+  - 7.3
+
+env:
+  global:
+    - DEFAULT=1
+
+matrix:
+  include:
+    - php: 7.1
+      env: PREFER_LOWEST=1 DEFAULT=0
+
+  fast_finish: true
+
+before_script:
+  - composer install --prefer-dist --no-interaction --profile
+  - if [[ $PREFER_LOWEST == 1 ]]; then composer update --prefer-lowest --prefer-dist --no-interaction --profile; fi
+  - if [[ $PREFER_LOWEST == 1 ]]; then composer require --dev dereuromark/composer-prefer-lowest:dev-master; fi
+
+script:
+  - if [[ $DEFAULT == 1 ]]; then composer validate; fi
+  - if [[ $PREFER_LOWEST == 1 ]]; then vendor/bin/validate-prefer-lowest; fi
+
+notifications:
+  email: false
