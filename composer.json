@@ -38,7 +38,7 @@
     "spryker/setup": "^4.1.1",
     "spryker/setup-frontend": "^1.0.2",
     "spryker/store": "^1.9.1",
-    "spryker/synchronization": "^1.2.0",
+    "spryker/synchronization": "^1.2.1",
     "spryker/synchronization-behavior": "^1.3.0",
     "spryker/url": "^3.4.2",
     "spryker/url-storage": "^1.2.0",
