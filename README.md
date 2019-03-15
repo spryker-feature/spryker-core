@@ -1,6 +1,6 @@
 # Spryker Feature: Spryker Core
 
-Set of basic modules representing Spryker Commerce OS.
+Set of basic modules representing the Spryker Commerce OS.
 
 ## Installation
 
