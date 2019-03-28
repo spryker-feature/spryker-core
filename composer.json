@@ -50,7 +50,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201903.x-dev"
+      "dev-master": "201906.x-dev"
     }
   }
 }
