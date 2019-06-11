@@ -48,6 +48,7 @@
     "spryker/url": "^3.5.0",
     "spryker/url-storage": "^1.2.0",
     "spryker/uuid-behavior": "^1.0.1",
+    "spryker/vault": "^1.1.0",
     "spryker/zed-request": "^3.7.0"
   },
   "extra": {
