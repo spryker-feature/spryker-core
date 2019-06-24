@@ -37,6 +37,7 @@
     "spryker/propel-query-builder": "^0.3.1",
     "spryker/rabbit-mq": "^2.3.0",
     "spryker/router": "^1.0.0",
+    "spryker/scheduler": "^1.0.0",
     "spryker/session": "^4.2.0",
     "spryker/session-file": "^1.0.0",
     "spryker/session-redis": "^1.0.0",
