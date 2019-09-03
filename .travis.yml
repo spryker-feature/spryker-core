@@ -19,8 +19,8 @@ before_install:
   - phpenv config-rm xdebug.ini
 
 before_script:
-  - COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction
-  - if [[ $PREFER_LOWEST == 1 ]]; then COMPOSER_MEMORY_LIMIT=-1 composer update --prefer-lowest --prefer-dist --no-interaction; fi
+  - COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --profile
+  - if [[ $PREFER_LOWEST == 1 ]]; then COMPOSER_MEMORY_LIMIT=-1 composer update --prefer-lowest --prefer-dist --no-interaction --profile -vvv; fi
   - if [[ $PREFER_LOWEST == 1 ]]; then COMPOSER_MEMORY_LIMIT=-1 composer require --dev dereuromark/composer-prefer-lowest; fi
 
 script:
