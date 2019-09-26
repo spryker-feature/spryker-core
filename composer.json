@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/error-page": "^1.2.0",
-    "spryker-shop/heartbeat-page": "^1.0.2",
+    "spryker-shop/heartbeat-page": "^1.1.0",
     "spryker-shop/home-page": "^1.0.1",
     "spryker-shop/language-switcher-widget": "^1.1.0",
     "spryker-shop/navigation-widget": "^1.1.0",
@@ -18,6 +18,7 @@
     "spryker-shop/shop-router": "^1.0.2",
     "spryker-shop/shop-translator": "^1.0.0",
     "spryker-shop/shop-ui": "^1.27.0",
+    "spryker-shop/storage-router": "^0.1.0",
     "spryker/application": "^3.18.0",
     "spryker/assertion": "^3.0.0",
     "spryker/country": "^3.3.0",
