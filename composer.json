@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.2",
     "spryker-shop/error-page": "^1.2.0",
     "spryker-shop/heartbeat-page": "^1.1.0",
     "spryker-shop/home-page": "^1.0.1",
