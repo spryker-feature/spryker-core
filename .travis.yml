@@ -2,7 +2,7 @@ language: php
 
 php:
   - 7.2
-  - 7.4snapshot
+  - 7.4
 
 env:
   global:
@@ -16,7 +16,7 @@ matrix:
   fast_finish: true
 
 before_install:
-  - if [[ ${TRAVIS_PHP_VERSION} != "7.4snapshot" ]]; then phpenv config-rm xdebug.ini ; fi
+  - if [[ ${TRAVIS_PHP_VERSION} != "7.4" ]]; then phpenv config-rm xdebug.ini ; fi
 
 before_script:
   - COMPOSER_MEMORY_LIMIT=-1 composer install --prefer-dist --no-interaction --profile
