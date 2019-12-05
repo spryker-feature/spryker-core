@@ -41,7 +41,7 @@
     "spryker/rabbit-mq": "^2.7.0",
     "spryker/router": "^1.0.0",
     "spryker/scheduler": "^1.0.0",
-    "spryker/security": "^1.0.0",
+    "spryker/security": "^1.1.0",
     "spryker/session": "^4.4.0",
     "spryker/session-file": "^1.0.0",
     "spryker/session-redis": "^1.0.0",
