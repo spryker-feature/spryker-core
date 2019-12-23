@@ -29,6 +29,7 @@
     "spryker/glossary-storage": "^1.4.0",
     "spryker/glue-application": "^1.21.0",
     "spryker/gui": "^3.24.0",
+    "spryker/health-check": "^1.0.0",
     "spryker/http": "^1.0.0",
     "spryker/installer": "^4.0.1",
     "spryker/locale": "^3.2.0",
