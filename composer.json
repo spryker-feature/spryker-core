@@ -8,7 +8,6 @@
   "require": {
     "php": ">=7.2",
     "spryker-shop/error-page": "^1.2.0",
-    "spryker-shop/heartbeat-page": "^1.1.0",
     "spryker-shop/home-page": "^1.0.1",
     "spryker-shop/language-switcher-widget": "^1.1.0",
     "spryker-shop/navigation-widget": "^1.1.0",
