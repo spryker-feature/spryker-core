@@ -23,6 +23,7 @@ composer require spryker-feature/spryker-core
 - [SchedulerExtension ^1.0.0](https://github.com/spryker/scheduler-extension) (Extension)
 - [SecurityExtension ^1.0.0](https://github.com/spryker/security-extension) (Extension)
 - [SessionExtension ^1.0.0](https://github.com/spryker/session-extension) (Extension)
+- [SessionRedisExtension ^1.0.0](https://github.com/spryker/session-redis-extension) (Extension)
 - [StorageDatabaseExtension ^1.0.0](https://github.com/spryker/storage-database-extension) (Extension)
 - [StorageExtension ^1.0.0](https://github.com/spryker/storage-extension) (Extension)
 - [Shop.StorageRouterExtension ^1.0.0](https://github.com/spryker-shop/storage-router-extension) (Extension)
