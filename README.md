@@ -11,6 +11,7 @@ composer require spryker-feature/spryker-core
 ## Optional modules
 - [Api ^0.3.0](https://github.com/spryker/api) (Old API)
 - [ApplicationExtension ^1.0.0](https://github.com/spryker/application-extension) (Extension)
+- [DataExportExtension ^0.1.0](https://github.com/spryker/data-export-extension) (Extension)
 - [DataImportExtension ^1.1.0](https://github.com/spryker/data-import-extension) (Extension)
 - [EntityTagsRestApi](https://github.com/spryker/entity-tags-rest-api) (Glue)
 - [EventDispatcherExtension](https://github.com/spryker/event-dispatcher-extension) (Extension)
