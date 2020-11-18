@@ -38,3 +38,4 @@ composer require spryker-feature/spryker-core
 - [UrlsRestApi ^1.0.0](https://github.com/spryker/urls-rest-api) (Glue)
 - [UrlsRestApiExtension ^1.0.0](https://github.com/spryker/urls-rest-api-extension) (Extension)
 - [ValidatorExtension ^1.0.0](https://github.com/spryker/validator-extension) (Extension)
+- [ZedRequestExtension ^1.0.0](https://github.com/spryker/zed-request-extension) (Extension)
