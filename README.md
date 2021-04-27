@@ -14,6 +14,7 @@ composer require spryker-feature/spryker-core
 - [DataExportExtension ^0.1.0](https://github.com/spryker/data-export-extension) (Extension)
 - [DataImportExtension ^1.1.0](https://github.com/spryker/data-import-extension) (Extension)
 - [EntityTagsRestApi](https://github.com/spryker/entity-tags-rest-api) (Glue)
+- [Shop.ErrorPageExtension ^1.0.0](https://github.com/spryker-shop/error-page-extension) (Extension)
 - [EventDispatcherExtension](https://github.com/spryker/event-dispatcher-extension) (Extension)
 - [FormExtension ^1.0.0](https://github.com/spryker/form-extension) (Extension)
 - [GlueApplicationExtension ^1.3.0](https://github.com/spryker/glue-application-extension) (Extension)
