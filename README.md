@@ -38,5 +38,6 @@ composer require spryker-feature/spryker-core
 - [UrlCollector ^1.0.0](https://github.com/spryker/url-collector) (Collector)
 - [UrlsRestApi ^1.0.0](https://github.com/spryker/urls-rest-api) (Glue)
 - [UrlsRestApiExtension ^1.0.0](https://github.com/spryker/urls-rest-api-extension) (Extension)
+- [UtilSanitizeExtension ^1.0.0](https://github.com/spryker/util-sanitize-extension) (Extension)
 - [ValidatorExtension ^1.0.0](https://github.com/spryker/validator-extension) (Extension)
 - [ZedRequestExtension ^1.0.0](https://github.com/spryker/zed-request-extension) (Extension)
