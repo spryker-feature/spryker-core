@@ -36,7 +36,6 @@
     "spryker/installer": "^4.0.1",
     "spryker/locale": "^3.6.0",
     "spryker/log": "^3.10.0",
-    "spryker/maintenance": "^3.2.0",
     "spryker/permission": "^1.5.0",
     "spryker/propel": "^3.25.0",
     "spryker/propel-orm": "^1.11.0",
@@ -72,5 +71,8 @@
     "branch-alias": {
       "dev-master": "202107.x-dev"
     }
+  },
+  "require-dev": {
+    "spryker/maintenance": "^3.2"
   }
 }
