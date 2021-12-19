@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/error-page": "^1.9.0",
         "spryker-shop/home-page": "^1.1.0",
         "spryker-shop/language-switcher-widget": "^1.2.0",
@@ -30,6 +30,9 @@
         "spryker/glossary": "^3.11.0",
         "spryker/glossary-storage": "^1.9.0",
         "spryker/glue-application": "^1.33.0",
+        "spryker/glue-backend-api-application": "^0.1.0",
+        "spryker/glue-http": "^0.1.0",
+        "spryker/glue-storefront-api-application": "^0.1.0",
         "spryker/graceful-runner": "^1.0.0",
         "spryker/gui": "^3.40.0",
         "spryker/health-check": "^1.0.1",
