@@ -9,7 +9,8 @@ composer require spryker-feature/spryker-core
 ```
 
 ## Optional modules
-- [Api ^0.3.0](https://github.com/spryker/api) (Old API)
+- [Api ^0.4.0](https://github.com/spryker/api) (Old API)
+- [ApiExtension ^0.1.0](https://github.com/spryker/api-extension) (Extension)
 - [ApplicationExtension ^1.0.0](https://github.com/spryker/application-extension) (Extension)
 - [AuthorizationExtension ^1.0.0](https://github.com/spryker/authorization-extension) (Extension)
 - [DataExportExtension ^0.1.0](https://github.com/spryker/data-export-extension) (Extension)
