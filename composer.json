@@ -79,7 +79,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     }
 }
