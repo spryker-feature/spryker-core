@@ -26,6 +26,7 @@ composer require spryker-feature/spryker-core
 - [GlueApplicationExtension ^1.13.0](https://github.com/spryker/glue-application-extension) (Extension)
 - [GlueBackendApiApplicationAuthorizationConnector ^1.0.0](https://github.com/spryker/glue-backend-api-application-authorization-connector) (Connector)
 - [GlueBackendApiApplicationExtension ^1.0.0](https://github.com/spryker/glue-backend-api-application-extension) (Extension)
+- [GlueBackendApiApplicationGlueJsonApiConventionConnector ^1.0.0](https://github.com/spryker/glue-backend-api-application-glue-json-api-convention-connector) (Connector)
 - [GlueJsonApiConventionExtension ^1.0.0](https://github.com/spryker/glue-json-api-convention-extension) (Extension)
 - [GlueStorefrontApiApplicationAuthorizationConnector ^1.0.0](https://github.com/spryker/glue-storefront-api-application-authorization-connector) (Connector)
 - [GlueStorefrontApiApplicationExtension ^1.0.0](https://github.com/spryker/glue-storefront-api-application-extension) (Extension)
