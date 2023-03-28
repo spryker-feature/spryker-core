@@ -55,6 +55,7 @@
         "spryker/scheduler": "^1.2.0",
         "spryker/security": "^1.7.0",
         "spryker/security-blocker": "^1.1.0",
+        "spryker/security-blocker-storefront-customer": "^1.0.0",
         "spryker/security-system-user": "^1.0.0",
         "spryker/session": "^4.13.0",
         "spryker/session-file": "^1.5.0",
