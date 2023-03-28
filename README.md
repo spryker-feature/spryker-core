@@ -44,6 +44,7 @@ composer require spryker-feature/spryker-core
 - [PublisherExtension ^1.0.0](https://github.com/spryker/publisher-extension) (Extension)
 - [RouterExtension ^1.1.0](https://github.com/spryker/router-extension) (Extension)
 - [SchedulerExtension ^1.0.0](https://github.com/spryker/scheduler-extension) (Extension)
+- [SecurityBlockerExtension ^1.0.0](https://github.com/spryker/security-blocker-extension) (Extension)
 - [SecurityBlockerRestApi ^1.0.0](https://github.com/spryker/security-blocker-rest-api) (Legacy Glue)
 - [SecurityExtension ^1.1.0](https://github.com/spryker/security-extension) (Extension)
 - [SessionExtension ^1.0.0](https://github.com/spryker/session-extension) (Extension)
