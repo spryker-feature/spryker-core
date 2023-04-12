@@ -24,6 +24,7 @@
         "spryker/authentication": "^1.0.0",
         "spryker/authentication-oauth": "^1.0.0",
         "spryker/authorization": "^1.2.0",
+        "spryker/country": "^4.0.0",
         "spryker/country-data-import": "^0.1.0",
         "spryker/country-gui": "^1.0.0",
         "spryker/data-export": "^0.1.3",
