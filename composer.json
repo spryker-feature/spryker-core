@@ -54,6 +54,7 @@
         "spryker/propel": "^3.35.0",
         "spryker/propel-orm": "^1.17.0",
         "spryker/propel-query-builder": "^0.3.1",
+        "spryker/propel-replication-cache": "^1.1.0",
         "spryker/publisher": "^1.2.0",
         "spryker/rabbit-mq": "^2.15.0",
         "spryker/router": "^1.14.0",
