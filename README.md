@@ -2,6 +2,8 @@
 
 Set of basic modules representing the Spryker Commerce OS.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/miscellaneous/202307.0/spryker-core-feature-overview/spryker-core-feature-overview.html)
+
 ## Installation
 
 ```
