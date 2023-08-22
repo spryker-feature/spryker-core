@@ -19,6 +19,8 @@
         "spryker-shop/shop-ui": "^1.71.0",
         "spryker-shop/storage-router": "^0.1.0",
         "spryker-shop/store-widget": "^1.1.0",
+        "spryker/api-key": "^1.0.0",
+        "spryker/api-key-gui": "^1.0.0",
         "spryker/application": "^3.32.0",
         "spryker/assertion": "^3.0.0",
         "spryker/authentication": "^1.0.0",
