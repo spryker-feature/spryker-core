@@ -13,6 +13,7 @@ composer require spryker-feature/spryker-core
 ## Optional modules
 - [Api ^0.4.0](https://github.com/spryker/api) (Old API)
 - [ApiExtension ^0.1.0](https://github.com/spryker/api-extension) (Extension)
+- [ApiKeyAuthorizationConnector ^1.0.0](https://github.com/spryker/api-key-authorization-connector) (Connector)
 - [ApplicationExtension ^1.1.0](https://github.com/spryker/application-extension) (Extension)
 - [AuthenticationExtension ^1.0.0](https://github.com/spryker/authentication-extension) (Extension)
 - [AuthorizationExtension ^1.1.0](https://github.com/spryker/authorization-extension) (Extension)
