@@ -43,6 +43,7 @@ composer require spryker-feature/spryker-core
 - [OauthBackendApi ^1.4.0](https://github.com/spryker/oauth-backend-api) (Legacy Glue)
 - [OauthBackendApiExtension ^1.0.0](https://github.com/spryker/oauth-backend-api-extension) (Extension)
 - [OauthUserConnector ^1.3.0](https://github.com/spryker/oauth-user-connector) (Connector)
+- [OauthUserConnectorExtension ^1.0.0](https://github.com/spryker/oauth-user-connector-extension) (Extension)
 - [PermissionExtension ^1.2.0](https://github.com/spryker/permission-extension) (Extension)
 - [PublisherExtension ^1.0.0](https://github.com/spryker/publisher-extension) (Extension)
 - [RouterExtension ^1.1.0](https://github.com/spryker/router-extension) (Extension)
