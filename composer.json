@@ -61,6 +61,7 @@
         "spryker/publisher": "^1.2.0",
         "spryker/rabbit-mq": "^2.18.0",
         "spryker/router": "^1.19.0",
+        "spryker/rule-engine": "^0.1.0",
         "spryker/scheduler": "^1.4.0",
         "spryker/security": "^1.8.0",
         "spryker/security-blocker": "^1.2.0",
