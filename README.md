@@ -39,6 +39,7 @@ composer require spryker-feature/spryker-core
 - [HttpExtension ^1.0.0](https://github.com/spryker/http-extension) (Extension)
 - [InstallerExtension ^1.0.0](https://github.com/spryker/installer-extension) (Extension)
 - [LocaleExtension](https://github.com/spryker/locale-extension) (Extension)
+- [LogExtension ^1.0.0](https://github.com/spryker/log-extension) (Extension)
 - [OauthApi ^1.3.0](https://github.com/spryker/oauth-api) (Legacy Glue)
 - [OauthBackendApi ^1.5.0](https://github.com/spryker/oauth-backend-api) (Legacy Glue)
 - [OauthBackendApiExtension ^1.0.0](https://github.com/spryker/oauth-backend-api-extension) (Extension)
