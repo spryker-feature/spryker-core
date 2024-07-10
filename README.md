@@ -48,7 +48,7 @@ composer require spryker-feature/spryker-core
 - [PermissionExtension ^1.2.0](https://github.com/spryker/permission-extension) (Extension)
 - [PublisherExtension ^1.0.0](https://github.com/spryker/publisher-extension) (Extension)
 - [RouterExtension ^1.1.0](https://github.com/spryker/router-extension) (Extension)
-- [RuleEngineExtension ^0.1.0](https://github.com/spryker/rule-engine-extension) (Extension)
+- [RuleEngineExtension ^1.0.0](https://github.com/spryker/rule-engine-extension) (Extension)
 - [SchedulerExtension ^1.0.0](https://github.com/spryker/scheduler-extension) (Extension)
 - [SecurityBlockerExtension ^1.0.0](https://github.com/spryker/security-blocker-extension) (Extension)
 - [SecurityBlockerRestApi ^1.0.0](https://github.com/spryker/security-blocker-rest-api) (Legacy Glue)
