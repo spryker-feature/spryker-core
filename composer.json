@@ -51,7 +51,7 @@
         "spryker/locale": "^4.5.0",
         "spryker/locale-data-import": "^0.1.0",
         "spryker/locale-gui": "^1.0.0",
-        "spryker/log": "^3.17.0",
+        "spryker/log": "^3.16.0",
         "spryker/maintenance": "^3.5.0",
         "spryker/permission": "^1.6.0",
         "spryker/propel": "^3.40.0",
