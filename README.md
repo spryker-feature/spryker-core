@@ -37,6 +37,7 @@ composer require spryker-feature/spryker-core
 - [GlueStorefrontApiApplicationGlueJsonApiConventionConnector ^1.0.0](https://github.com/spryker/glue-storefront-api-application-glue-json-api-convention-connector) (Connector)
 - [HealthCheckExtension](https://github.com/spryker/health-check-extension) (Extension)
 - [HttpExtension ^1.0.0](https://github.com/spryker/http-extension) (Extension)
+- [IncrementalInstallerExtension ^0.1.0](https://github.com/spryker/incremental-installer-extension) (Extension)
 - [InstallerExtension ^1.0.0](https://github.com/spryker/installer-extension) (Extension)
 - [KernelAppExtension ^1.0.0](https://github.com/spryker/kernel-app-extension) (Extension)
 - [LocaleExtension](https://github.com/spryker/locale-extension) (Extension)
