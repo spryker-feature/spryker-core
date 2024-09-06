@@ -47,7 +47,6 @@
         "spryker/gui": "^3.53.0",
         "spryker/health-check": "^1.0.1",
         "spryker/http": "^1.11.0",
-        "spryker/incremental-installer": "^0.1.0",
         "spryker/installer": "^4.2.0",
         "spryker/kernel-app": "^1.0.0",
         "spryker/locale": "^4.5.0",
