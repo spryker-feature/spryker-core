@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker-shop/error-page": "^1.9.0",
         "spryker-shop/home-page": "^1.1.0",
         "spryker-shop/language-switcher-widget": "^1.5.0",
@@ -96,7 +96,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     }
 }
