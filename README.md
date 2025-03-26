@@ -17,7 +17,7 @@ composer require spryker-feature/spryker-core
 - [ApplicationExtension ^1.1.0](https://github.com/spryker/application-extension) (Extension)
 - [AuthenticationExtension ^1.0.0](https://github.com/spryker/authentication-extension) (Extension)
 - [AuthorizationExtension ^1.3.0](https://github.com/spryker/authorization-extension) (Extension)
-- [DataExportExtension ^0.1.0](https://github.com/spryker/data-export-extension) (Extension)
+- [DataExportExtension ^0.1.1](https://github.com/spryker/data-export-extension) (Extension)
 - [DataImportExtension ^1.2.0](https://github.com/spryker/data-import-extension) (Extension)
 - [DocumentationGeneratorApiExtension ^1.1.0](https://github.com/spryker/documentation-generator-api-extension) (Extension)
 - [EntityTagsRestApi](https://github.com/spryker/entity-tags-rest-api) (Legacy Glue)
