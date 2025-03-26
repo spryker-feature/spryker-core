@@ -30,7 +30,7 @@
         "spryker/country": "^4.4.0",
         "spryker/country-data-import": "^0.1.0",
         "spryker/country-gui": "^1.0.0",
-        "spryker/data-export": "^0.1.3",
+        "spryker/data-export": "^0.1.6",
         "spryker/data-import": "^1.25.0",
         "spryker/documentation-generator-api": "^1.4.0",
         "spryker/documentation-generator-open-api": "^1.4.0",
