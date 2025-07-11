@@ -54,6 +54,7 @@
         "spryker/locale-gui": "^1.0.0",
         "spryker/log": "^3.18.0",
         "spryker/maintenance": "^3.5.0",
+        "spryker/multi-factor-auth": "^1.0.0",
         "spryker/permission": "^1.6.0",
         "spryker/propel": "^3.40.0",
         "spryker/propel-orm": "^1.21.0",
@@ -96,7 +97,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202410.x-dev"
+            "dev-master": "202507.x-dev"
         }
     }
 }
