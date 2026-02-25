@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/error-page": "^1.10.0",
+        "spryker-shop/error-page": "^1.11.0",
         "spryker-shop/home-page": "^1.2.0",
         "spryker-shop/language-switcher-widget": "^1.8.0",
         "spryker-shop/redirect-page": "^1.1.0",
@@ -16,15 +16,15 @@
         "spryker-shop/shop-permission": "^1.2.0",
         "spryker-shop/shop-router": "^1.1.0",
         "spryker-shop/shop-translator": "^1.2.0",
-        "spryker-shop/shop-ui": "^1.100.0",
+        "spryker-shop/shop-ui": "^1.102.0",
         "spryker-shop/storage-router": "^0.1.0",
         "spryker-shop/store-widget": "^1.5.0",
         "spryker-shop/url-page": "^1.0.0",
         "spryker/api-key": "^2.2.0",
         "spryker/api-key-gui": "^2.1.0",
-        "spryker/application": "^3.42.0",
+        "spryker/application": "^3.44.0",
         "spryker/assertion": "^3.0.0",
-        "spryker/authentication": "^1.0.0",
+        "spryker/authentication": "^1.1.0",
         "spryker/authentication-oauth": "^1.3.0",
         "spryker/authorization": "^1.6.0",
         "spryker/country": "^4.7.0",
@@ -39,17 +39,17 @@
         "spryker/form": "^1.2.0",
         "spryker/glossary": "^3.19.0",
         "spryker/glossary-storage": "^1.12.0",
-        "spryker/glue-application": "^1.71.0",
-        "spryker/glue-backend-api-application": "^1.7.0",
+        "spryker/glue-application": "^1.73.0",
+        "spryker/glue-backend-api-application": "^1.8.0",
         "spryker/glue-json-api-convention": "^1.4.0",
         "spryker/glue-storefront-api-application": "^1.6.0",
         "spryker/graceful-runner": "^1.1.0",
-        "spryker/gui": "^4.5.0",
+        "spryker/gui": "^4.10.0",
         "spryker/health-check": "^1.0.1",
-        "spryker/http": "^1.14.0",
+        "spryker/http": "^1.15.0",
         "spryker/installer": "^4.2.0",
         "spryker/kernel-app": "^1.5.0",
-        "spryker/locale": "^4.11.0",
+        "spryker/locale": "^4.12.0",
         "spryker/locale-data-import": "^0.1.0",
         "spryker/locale-gui": "^2.0.0",
         "spryker/log": "^3.18.0",
@@ -71,7 +71,7 @@
         "spryker/security-system-user": "^1.1.0",
         "spryker/session": "^4.19.0",
         "spryker/session-file": "^1.6.0",
-        "spryker/session-redis": "^1.11.0",
+        "spryker/session-redis": "^1.12.0",
         "spryker/setup": "^4.7.0",
         "spryker/setup-frontend": "^1.8.0",
         "spryker/storage": "^3.24.0",
@@ -97,7 +97,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202512.x-dev"
+            "dev-master": "202602.x-dev"
         }
     }
 }
