@@ -44,7 +44,7 @@
         "spryker/glue-json-api-convention": "^1.4.0",
         "spryker/glue-storefront-api-application": "^1.6.0",
         "spryker/graceful-runner": "^1.1.0",
-        "spryker/gui": "^4.10.0",
+        "spryker/gui": "^5.0.0",
         "spryker/health-check": "^1.0.1",
         "spryker/http": "^1.15.0",
         "spryker/installer": "^4.2.0",
