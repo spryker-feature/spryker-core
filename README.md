@@ -61,7 +61,7 @@ composer require spryker-feature/spryker-core
 - [Shop.StorageRouterExtension ^1.1.0](https://github.com/spryker-shop/storage-router-extension) (Extension)
 - [StoreExtension ^1.0.0](https://github.com/spryker/store-extension) (Extension)
 - [StoreGuiExtension ^1.0.0](https://github.com/spryker/store-gui-extension) (Extension)
-- [StoresApi ^1.2.0](https://github.com/spryker/stores-api) (Glue Storefront)
+- [StoresApi ^1.3.0](https://github.com/spryker/stores-api) (Glue Storefront)
 - [StoresBackendApi ^1.0.0](https://github.com/spryker/stores-backend-api) (Glue Backend)
 - [StoresRestApi ^1.5.0](https://github.com/spryker/stores-rest-api) (Legacy Glue)
 - [SynchronizationExtension ^1.3.0](https://github.com/spryker/synchronization-extension) (Extension)
