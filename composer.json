@@ -16,7 +16,7 @@
         "spryker-shop/shop-permission": "^1.2.0",
         "spryker-shop/shop-router": "^1.1.0",
         "spryker-shop/shop-translator": "^1.2.0",
-        "spryker-shop/shop-ui": "^1.109.0",
+        "spryker-shop/shop-ui": "^2.0.0",
         "spryker-shop/storage-router": "^0.1.0",
         "spryker-shop/store-widget": "^1.5.0",
         "spryker-shop/url-page": "^1.0.0",
@@ -97,7 +97,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     }
 }
