@@ -27,6 +27,7 @@
         "spryker/authentication": "^1.2.0",
         "spryker/authentication-oauth": "^1.3.0",
         "spryker/authorization": "^1.6.0",
+        "spryker/captcha": "^1.0.0",
         "spryker/chart": "^2.0.0",
         "spryker/country": "^4.10.0",
         "spryker/country-data-import": "^0.1.0",
